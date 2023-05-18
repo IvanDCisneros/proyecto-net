@@ -24,7 +24,7 @@ namespace MundoIndigoAPI.Controllers.Inventario
         public async Task<IActionResult> GetAll()
         {
             var result = await _db.Categorias.Where(c => c.EstaActivo == true).OrderBy(c => c.Nombre).ToListAsync();
-
+            //esto es una prueba de commit
             if (result == null)
                 return NotFound("Datos no encontrados");
 
