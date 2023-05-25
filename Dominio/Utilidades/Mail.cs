@@ -17,7 +17,7 @@ namespace Dominio.Utilidades
             {
                 MailMessage mail = new()
                 {
-                    From = new MailAddress(From)
+                    From = new MailAddress(From!)
                 };
 
                 mail.To.Add(new MailAddress(email));

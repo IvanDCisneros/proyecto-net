@@ -11,7 +11,7 @@ namespace Dominio.Utilidades
 
             PropertyInfo[] myPropertyInfo;
 
-            myPropertyInfo = entidad.GetType().GetProperties();
+            myPropertyInfo = entidad!.GetType().GetProperties();
 
             for (int i = 0; i < myPropertyInfo.Length; i++)
             {
@@ -31,7 +31,7 @@ namespace Dominio.Utilidades
             {
                 rows.AppendLine("<tr>");
 
-                var myPropertyInfo = item.GetType().GetProperties();
+                var myPropertyInfo = item!.GetType().GetProperties();
 
                 for (int i = 0; i < myPropertyInfo.Length; i++)
                     rows.AppendFormat("<td>{0}</td>", myPropertyInfo[i].GetValue(item, null)?.ToString());

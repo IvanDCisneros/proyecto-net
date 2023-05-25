@@ -13,14 +13,14 @@ namespace MundoIndigoAPI.Services
         {
             _config = config;
         }
-        public string Authenticate(string username, string role)
+        public string Authenticate(string username, string? role)
         {
             var secretKey = _config.GetValue<string>("SecretKey");
             var key = Encoding.ASCII.GetBytes(secretKey);
             var claims = new ClaimsIdentity(new Claim[]
             {
                 new Claim(ClaimTypes.NameIdentifier, username),
-                new Claim(ClaimTypes.Role, role)
+                new Claim(ClaimTypes.Role, role!)
             });
 
             //claims.AddClaim(new Claim(ClaimTypes.NameIdentifier, username));
