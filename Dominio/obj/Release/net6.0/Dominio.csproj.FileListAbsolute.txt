@@ -10,3 +10,15 @@ E:\Emprendimientos\Mundo_Indigo\AplicacionWebV3\MundoIndigoAPI\Dominio\obj\Relea
 E:\Emprendimientos\Mundo_Indigo\AplicacionWebV3\MundoIndigoAPI\Dominio\obj\Release\net6.0\refint\Dominio.dll
 E:\Emprendimientos\Mundo_Indigo\AplicacionWebV3\MundoIndigoAPI\Dominio\obj\Release\net6.0\Dominio.pdb
 E:\Emprendimientos\Mundo_Indigo\AplicacionWebV3\MundoIndigoAPI\Dominio\obj\Release\net6.0\ref\Dominio.dll
+E:\Emprendimientos\Mundo_Indigo\AplicacionWebV4\MundoIndigoAPI\Dominio\bin\Release\net6.0\Dominio.deps.json
+E:\Emprendimientos\Mundo_Indigo\AplicacionWebV4\MundoIndigoAPI\Dominio\bin\Release\net6.0\Dominio.dll
+E:\Emprendimientos\Mundo_Indigo\AplicacionWebV4\MundoIndigoAPI\Dominio\bin\Release\net6.0\Dominio.pdb
+E:\Emprendimientos\Mundo_Indigo\AplicacionWebV4\MundoIndigoAPI\Dominio\obj\Release\net6.0\Dominio.csproj.AssemblyReference.cache
+E:\Emprendimientos\Mundo_Indigo\AplicacionWebV4\MundoIndigoAPI\Dominio\obj\Release\net6.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+E:\Emprendimientos\Mundo_Indigo\AplicacionWebV4\MundoIndigoAPI\Dominio\obj\Release\net6.0\Dominio.AssemblyInfoInputs.cache
+E:\Emprendimientos\Mundo_Indigo\AplicacionWebV4\MundoIndigoAPI\Dominio\obj\Release\net6.0\Dominio.AssemblyInfo.cs
+E:\Emprendimientos\Mundo_Indigo\AplicacionWebV4\MundoIndigoAPI\Dominio\obj\Release\net6.0\Dominio.csproj.CoreCompileInputs.cache
+E:\Emprendimientos\Mundo_Indigo\AplicacionWebV4\MundoIndigoAPI\Dominio\obj\Release\net6.0\Dominio.dll
+E:\Emprendimientos\Mundo_Indigo\AplicacionWebV4\MundoIndigoAPI\Dominio\obj\Release\net6.0\refint\Dominio.dll
+E:\Emprendimientos\Mundo_Indigo\AplicacionWebV4\MundoIndigoAPI\Dominio\obj\Release\net6.0\Dominio.pdb
+E:\Emprendimientos\Mundo_Indigo\AplicacionWebV4\MundoIndigoAPI\Dominio\obj\Release\net6.0\ref\Dominio.dll
